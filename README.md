@@ -2,7 +2,7 @@
 SQL bases content 
 
 Student-School Data Analysis Using SQL
-This project contains SQL scripts for performing data analysis on a student-school-teacher database. The dataset includes students, schools, teachers, and their respective marks in different subjects.
+This project contains SQL scripts for performing data analysis on a student-school-teacher database. The dataset includes students, schools, teachers.
 
 Dataset Structure:
 The database consists of the following tables:
@@ -17,7 +17,7 @@ Key SQL Queries Included:
 ✔️ Number of teachers in each school
 ✔️ Student list along with their school and teachers
 ✔️ Schools with more than 3 students
-✔️ Average marks per student and per subject
-✔️ Top-performing and lowest-performing students
-✔️ Highest marks in each subject
-✔️ Total marks obtained by each student
+✔️ count of schools
+✔️ avereage age of student
+
+
