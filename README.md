@@ -1,7 +1,8 @@
 # sql_work
 SQL bases content 
-1)
-Student-School Data Analysis Using SQL
+
+# Student-School Data Analysis Using SQL
+
 This project contains SQL scripts for performing data analysis on a student-school-teacher database. The dataset includes students, schools, teachers.
 
 Dataset Structure:
@@ -21,7 +22,7 @@ Key SQL Queries Included:
 ✔️ avereage age of student
 
 
-2) # Movie Database Analysis
+ # Movie Database Analysis
 
 This repository contains SQL scripts for creating and analyzing a movie database. The database includes tables for actors, films, directors, producers, and cameramen, along with relationships between them.
 
